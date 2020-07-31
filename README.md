@@ -1,7 +1,7 @@
 # Businer
 Businer is a platform which brings the Indian start-up ecosystem at your fingertips. An online business social networking application that connects Entrepreneurs, Investors, Mentors and other like minded people. 
 Start-ups are here to change the world, but they need an engaging ecosystem to grow. Many start-ups’ success depends on their ability to network. Businer seeks to create an online ecosystem of Entrepreneurs and start-ups for the tycoons in the making and to help strengthen the economy.
-The project is composed of Web and Mobile Application for social network based system. [continue reading..](https://github.com/bilalkazii/businer/blob/master/About%20us.pdf)
+The project is composed of Web and Mobile Application for social network based system. [continue reading..](https://github.com/bilalkazii/businer/blob/master/Businer%20Project.pdf)
 
 #### KEY MODULES <br>
 ➢	Listing start-up pitch <br>
@@ -48,6 +48,6 @@ The project is composed of Web and Mobile Application for social network based s
 ➢	Start-up growth rating<br>
 ➢	Filtration <br>
 
-To read more about us click [here](https://github.com/bilalkazii/businer/blob/master/About%20us.pdf)
+To read more about us click [here](https://github.com/bilalkazii/businer/blob/master/Businer%20Project.pdf)
 
 
